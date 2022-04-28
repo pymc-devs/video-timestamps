@@ -16,7 +16,7 @@ Your helpful contribution is greatly appreciated!!
 
 ## Instructions
 
-1 Watch the video and add descriptive timestamps to the issue you opened
+1. Watch the video and add descriptive timestamps to the issue you opened
 2. To submit your timestamps, there are two options:
   * Open a new issue with the videos title to "claim" the video such that there's no overlapping work
   * Create a pull request with the timestamps in the misc folder.
