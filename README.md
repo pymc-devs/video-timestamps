@@ -1,5 +1,5 @@
-# video-timestamps
-Crowd sourced timestamps for PyMC Youtube videos
+# Video Timestamps
+Crowd-sourcing timestamps for PyMC Youtube videos
 
 ## What We Are Doing: Adding Timestamps to Videos
 
