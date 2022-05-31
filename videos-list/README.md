@@ -18,11 +18,11 @@ In the description section, include:
 
 Videos that need **descriptions** (sorted by most recent).
 
-- [ ] 33 (Thomas Wiecki, Bayesian Workflow) (@reshamas)
-- [ ] 32 (Michael Osthege & Laura Helleckes, Calibr8)
-- [ ] 31 (Sayam Kumar, variational inference)
-- [ ] 30 (Quan Nguyen, Bayesian ML)
-- [ ] 29 (Luciano Paz, Posterior prediction sampling)
+- [ ] 33 [Thomas Wiecki, Bayesian Workflow](https://youtu.be/ZxR3mw-Znzc) (@reshamas)
+- [ ] 32 [Michael Osthege & Laura Helleckes, Calibr8](https://youtu.be/14Ca--VJKxI)
+- [ ] 31 [Sayam Kumar, variational inference](https://youtu.be/IrudJ-dgfOw)
+- [ ] 30 [Quan Nguyen, Bayesian ML](https://youtu.be/Y7U8jhKtdBA)
+- [ ] 29 [Luciano Paz, Posterior prediction sampling](https://youtu.be/IhTfuO8wSDA)
 - [ ] 28 (Evdoxia Taka, Bayesian visualization)
 - [ ] 27 (Cameron Davidson, Microbial cell counting)
 - [ ] 26 (Ali Akbar, Journey in ML)
