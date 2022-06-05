@@ -3,6 +3,9 @@
 - Number of videos: https://www.youtube.com/results?search_query=pymc+developers 
 - PyMCon 2020 speaker info: https://pymc-devs.github.io/pymcon/speakers 
 
+## Template
+- Event Description TEMPLATE:  https://github.com/pymc-devs/video-timestamps/blob/main/videos-list/00_template.md
+
 ## To Do
 ### Task 1: Add video descriptions
 In the description section, include:
