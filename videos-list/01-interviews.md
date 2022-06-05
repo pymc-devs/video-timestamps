@@ -1,4 +1,4 @@
-## Interview with PyMC maintainers and Community Members (sponsored by Tidelift)
+## Interviews with PyMC maintainers and Community Members (sponsored by Tidelift)
 
 ```txt
 
