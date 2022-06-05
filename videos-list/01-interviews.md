@@ -1,10 +1,10 @@
-## Member Interviews
+## Interview with PyMC maintainers and Community Members (sponsored by Tidelift)
 
 ```txt
 
-Speakers: 
+Speakers: Luciano Paz, Junpeng Lao, Chris Krapu, Corrie Bartelheimer, Austin Rochford, 
 
-Title: Interview with PyMC maintainers and community members (sponsored by Tidelift)
+Title: Interview with PyMC Maintainers and Community Members (sponsored by Tidelift)
 
 ## Event description:
 Listen to our community speak about what makes PyMC3 special, how it can help your company and why subscribing to Tidelift is a win-win for both open source projects and the enterprises that use them.
@@ -19,9 +19,13 @@ https://discourse.pymc.io/t/tidelift-is-proud-to-sponsor-pymcon-sustaining-pymc-
 
 ## Timestamps
 0:00 Start of event
-0:06 Luciano Paz
-
-0:00 Note: Help us add timestamps here: https://github.com/pymc-devs/video-timestamps
+0:06 Luciano Paz (PyMC maintainer)
+2:41 Junpeng Lao (PyMC maintainer)
+4:45 Chris Krapu (PyMC power user)
+6:20 Corrie Bartelheimer (recurrent PyMC speaker)
+7:10 Austin Rochford (PyMC maintainer)
+10:30 Alex Andorra (PyMC & ArviZ maintainer)
+13:00 Tidelift 
 
 ## Speaker bio
 Not applicable
