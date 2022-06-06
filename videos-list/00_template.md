@@ -2,6 +2,7 @@
 Speaker: xxx
 
 Title:  xxx
+Video: xxx
 
 ## Event description:
 xxx
@@ -10,9 +11,9 @@ xxx
 https://discourse.pymc.io/t/ xxxx
 
 ## Timestamps
-- 0:00 Start of event
-- 0:00 
-- 0:00 Help us add timestamps here: https://github.com/pymc-devs/video-timestamps
+0:00 
+x:xx 
+x:xx Help us add timestamps here: https://github.com/pymc-devs/video-timestamps
 
 ## Speaker bio:
 xxx
