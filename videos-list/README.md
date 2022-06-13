@@ -3,6 +3,9 @@
 - Number of videos: https://www.youtube.com/results?search_query=pymc+developers 
 - PyMCon 2020 speaker info: https://pymc-devs.github.io/pymcon/speakers 
 
+## Template
+- Event Description TEMPLATE:  https://github.com/pymc-devs/video-timestamps/blob/main/videos-list/00_template.md
+
 ## To Do
 ### Task 1: Add video descriptions
 In the description section, include:
@@ -50,7 +53,7 @@ Videos that need **descriptions** (sorted by most recent).
 - [ ] 04 [Aki Vehrati, Inference diagnostics](https://www.youtube.com/watch?v=HKPm6txxxQM)
 - [ ] 03 [Viola Priesemann, SARS-COV-2 spread inferring](https://www.youtube.com/watch?v=btHkSlePV5Q)
 - [ ] 02 [Tim. Mikkel and Grigorios, MLDA mulrilevel sampler](https://www.youtube.com/watch?v=NvsGyvAElLY)
-- [ ] 01 [Core members, PyMC + Tidelift](https://www.youtube.com/watch?v=cP_fD5AlVYw)
+- [x] 01 [Core members, PyMC + Tidelift](https://www.youtube.com/watch?v=cP_fD5AlVYw) (done by @reshamas)
 
 
 #### Task 2: Create thumbnails in Canva
