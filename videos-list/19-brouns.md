@@ -18,7 +18,9 @@ https://discourse.pymc.io/t/hierarchical-time-series-with-prophet-and-pymc3-by-m
 ## Note: help us add timestamps here
 https://github.com/pymc-devs/video-timestamps
 
-Speaker bio:
+Speaker bio: 
+Matthijs a data scientist, active in Amsterdam, The Netherlands. Hia current work involves training junior data scientists at Xccelerated.io. This means he divides his time between building new training materials and exercises, giving live trainings and acting as a sparring partner for the Xccelerators at our partner firms, as well as doing some consulting work on the side. He spends a fair amount of time contributing to our open scientific computing ecosystem through various means. He maintains open source packages (scikit-lego, seers) as well as co-chair the PyData Amsterdam conference and meetup and vice-chair the PyData Global conference.In his spare time, he likes to go mountain biking, bouldering, do some woodworking or go scuba diving.
+
 
 
 Speaker info: 
