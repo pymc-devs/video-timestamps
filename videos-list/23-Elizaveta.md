@@ -8,7 +8,6 @@ Event description:
 
 We will build a simple but useful ordered logistic regression model to predict severity of drug-induced liver injury (DILI) from in vitro data and physicochemical properties of compounds.
 
-Discourse Discussion 
 
 ## Timestamps
 - 0:00 Start of event
