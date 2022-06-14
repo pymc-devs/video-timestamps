@@ -29,7 +29,7 @@ Twitter: https://twitter.com/alex_andorra
 
 Website: https://learnbayesstats.anvil.app/
 
-LinkedIn:https://fr.linkedin.com/in/aandorra-pollsposition
+LinkedIn: https://fr.linkedin.com/in/aandorra-pollsposition
 
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
