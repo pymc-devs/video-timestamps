@@ -9,8 +9,6 @@ Event description:
 
 What will you do if MCMC is taking too long to sample? Also what if the dataset is huge? Is there any other cost-effective method for finding the posterior that can save us and potentially produce similar results? Well, you have come to the right place. In this talk, I will explain the intuition and maths behind Variational Inference, the algorithms capturing the amount of correlation, out of the box implementations that we can use, and ultimately diagnosing the model to fit our use case.
 
-Discourse Discussion
-
 
 ## Timestamps
 - 0:00 Start of event
