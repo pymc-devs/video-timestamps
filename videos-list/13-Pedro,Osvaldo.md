@@ -9,10 +9,6 @@ Event description:
 In this talk we will provide a brief introduction to Sequential Monte Carlo (SMC) methods and provide a guide to diagnose posterior samples computed using SMC.
 
 
-Discourse Discussion
-https://discourse.pymc.io/t/a-bayesian-approach-to-media-mix-modeling-by-michael-johns-zhenyu-wang/6024
-
-
 ## Timestamps
 - 0:00 Start of event
 - x:xx 
