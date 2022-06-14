@@ -7,7 +7,6 @@ Title: Using Hierarchical Multinomial regression to predict elections in Paris a
 Event description:
 Predicting elections in Paris with hierarchical multinomial regression.
 
-Discourse Discussion 
 
 ## Timestamps
 - 0:00 Start of event
