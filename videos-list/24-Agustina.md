@@ -18,7 +18,7 @@ Discourse Discussion
 https://github.com/pymc-devs/video-timestamps
 
 Speaker bio:
-I am a PhD candidate in Biology. In my research, I apply Bayesian statistics to biomolecular structure determination and validation, i.e. finding the 3-dimensional shape of biomolecules and evaluating if that shape is a good model. I enjoy contributing to open source software. I have participated in the Google Summer of Code program with PyMC3 and ArviZ and I have recently incorporated to ArviZ core developers team.
+Agustina is a PhD candidate in Biology. In her research, she applies Bayesian statistics to biomolecular structure determination and validation, i.e. finding the 3-dimensional shape of biomolecules and evaluating if that shape is a good model. She enjoys contributing to open source software. She has participated in the Google Summer of Code program with PyMC3 and ArviZ and she was recently incorporated to ArviZ core developers team.
 
 Speaker info: 
 GitHub: https://github.com/agustinaarroyuelo 
