@@ -5,6 +5,7 @@ Speaker: Thomas Wiecki
 Title:  The Bayesian Workflow: Building a COVID-19 Model (Part 1)
 
 Event description:
+
 In this tutorial we will build a COVID-19 model from scratch.
 
 Discourse Discussion
@@ -16,6 +17,7 @@ https://discourse.pymc.io/t/the-bayesian-workflow-building-a-covid-19-model-by-t
 - 0:00 Help us add timestamps here:  https://github.com/pymc-devs/video-timestamps
 
 Speaker bio:
+
 - Thomas is the founder of PyMC Labs, a Bayesian consulting firm.
 - PyMC author
 - PhD on computational cognitive neuroscience from Brown University
@@ -25,9 +27,13 @@ Speaker bio:
 - Data scientist to follow of the year 2015, ODSC Open Source award 2018.
 
 Speaker info: 
+
 Website: https://twiecki.io
+
 GitHub: https://github.com/twiecki
+
 Twitter: https://twitter.com/twiecki
+
 LinkedIn: https://www.linkedin.com/in/thomas-wiecki-46339244/  
 
 Part of PyMCon2020. 
