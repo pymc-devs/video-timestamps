@@ -8,7 +8,6 @@ Event description:
 
 In this LBAM, we’ll introduce the microbiological task of cell counting and understand all the potential sources of error involved. We’ll model each source of error probabilistically, introduce priors, and then discuss inference on the posterior. Finally, we’ll explore how we can extend our model to use in a calibration curve for other instruments. Only basic probability theory is required for this LBAM.
 
-Discourse Discussion 
 
 ## Timestamps
 - 0:00 Start of event
