@@ -4,9 +4,8 @@ Speaker: Vincent Warmerdam
 Title: Priors of Great Potential - How you can add Fairness Constraints to Models using Priors.
 
 
-Event description:
+Event description: Priors of Great Potential - How you can add Fairness Constraints to Models using Priors.
 
-Priors of Great Potential - How you can add Fairness Constraints to Models using Priors.
 
 ## Timestamps
 - 0:00 Start of event
