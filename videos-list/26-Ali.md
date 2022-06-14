@@ -8,8 +8,6 @@ Event description:
 My journey in learning (and relearning) Bayesian methods as a computer scientist
 
 
-Discourse Discussion 
-
 ## Timestamps
 - 0:00 Start of event
 - x:xx 
