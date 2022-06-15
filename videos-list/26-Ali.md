@@ -7,6 +7,8 @@ Title: My Journey in Learning and Relearning Bayesian Statistics
 Event description:
 My journey in learning (and relearning) Bayesian methods as a computer scientist
 
+Discourse Discussion
+https://discourse.pymc.io/t/my-journey-in-learning-and-relearning-bayesian-statistics-by-ali-akbar-septiandri/5984
 
 ## Timestamps
 - 0:00 Start of event
