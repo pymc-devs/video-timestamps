@@ -7,6 +7,9 @@ Title: What is probability? A philosophical question with practical implications
 Event description:
 This talk will familiarize you with the philosophical questions of probability and the implications when it comes to justifying and explaining Bayesian models.
 
+Discours Discussion
+https://discourse.pymc.io/t/what-is-probability-a-philosophical-question-with-practical-implications-for-bayesians-by-max-sklar/5986
+
 
 ## Timestamps
 - 0:00 Start of event
