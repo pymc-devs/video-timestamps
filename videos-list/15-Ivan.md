@@ -8,6 +8,8 @@ Event description:
 
 This tutorial will demonstrate use of PyMC3 for PDE-based inverse problems. We will infer parameters of a simple continuum mechanics model but the demonstrated tools can be readily applied to other complex PDE-based models.
 
+Discourse Discussion
+https://discourse.pymc.io/t/including-partial-differential-equations-in-your-pymc3-model-by-ivan-yashchuk/6016
 
 ## Timestamps
 - 0:00 Start of event
