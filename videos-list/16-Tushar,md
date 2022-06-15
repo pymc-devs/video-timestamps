@@ -8,6 +8,8 @@ Event description:
 
 In the mobile game Pokemon GO, players can rarely encounter "shiny" Pokemon. The exact appearance rates are unknown. But by using Bayesian inference and PyMC3, we can model different species’ shiny rates. In this beginner-level tutorial, we will introduce fundamental principles at the heart of Bayesian modeling; then we will apply them to develop PyMC3 models that can answer questions about Pokemon GO.
 
+Discourse Discussion
+https://discourse.pymc.io/t/learning-bayesian-statistics-with-pokemon-go-by-tushar-chandra/6020
 
 ## Timestamps
 - 0:00 Start of event
