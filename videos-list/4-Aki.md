@@ -7,6 +7,9 @@ Title:  [Keynote] These are a few of my favorite inference diagnostics
 Event description:
 I discuss some old and some more recent inference diagnostics methods for Markov chain Monte Carlo, importance sampling, and variational inference. When the convergence fails, I simply remember my favorite inference diagnostics, and then I don’t feel so bad.
 
+Discourse Discussion
+https://discourse.pymc.io/t/keynote-these-are-a-few-of-my-favorite-inference-diagnostics-by-aki-vehtari/6180
+
 
 ## Timestamps
 - 0:00 Start of event
