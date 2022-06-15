@@ -7,6 +7,8 @@ Title: Using Hierarchical Multinomial regression to predict elections in Paris a
 Event description:
 Predicting elections in Paris with hierarchical multinomial regression.
 
+Discourse Discussion
+https://discourse.pymc.io/t/using-hierarchical-multinomial-regression-to-predict-elections-in-paris-at-the-district-level-by-alex-andorra/6057
 
 ## Timestamps
 - 0:00 Start of event
