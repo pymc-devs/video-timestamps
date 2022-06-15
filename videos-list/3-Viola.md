@@ -7,6 +7,9 @@ Title:  [Keynote] Inferring the spread of SARS-CoV-2 --- and measures to mitigat
 Event description:
 With the second waves of COVID-19 unfolding in most European countries, it is worth to look back at the first wave and especially the past summer, where case numbers were case numbers stayed low. I will present approaches to infer the effectiveness of interventions, and models to explore their potential. This talk will be interesting for anyone wanting to understand the current and potential future dynamics of COVID-19.
 
+Discourse Discussion
+https://discourse.pymc.io/t/keynote-inferring-the-spread-of-sars-cov-2-and-measures-to-mitigate-it-by-viola-priesemann/6179
+
 ## Timestamps
 - 0:00 Start of event
 - x:xx 
