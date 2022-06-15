@@ -7,6 +7,9 @@ Title: The Bayesian Zig Zag: Developing and Testing PyMC Models
 Event description: 
 Tools like PyMC make it easy to implement probablistic models, but it is still challenging to develop and validate those models. In this talk, I present an incremental strategy for developing and testing models by alternating between forward and inverse probabilities and between grid algorithms and MCMC. I’ll use Poisson processes as an example, but this strategy applies to other probabilistic models.
 
+Discourse Discussion
+https://discourse.pymc.io/t/the-bayesian-zig-zag-developing-and-testing-pymc-models-by-allen-downey/5978
+
 ## Timestamps
 - 0:00 Start of event
 - x:xx 
