@@ -7,6 +7,8 @@ Title: Partial Missing Multivariate observation and what to do with them
 Event description:
 Missing value is pretty common in any real world data set. While PyMC3 provides convenient automatic imputation, how do we verify it works, especially dealing with multivariate observation with partially missing value? Come to this tutorial to find out!
 
+Discourse Discussion
+https://discourse.pymc.io/t/partial-missing-multivariate-observation-and-what-to-do-with-them-by-junpeng-lao/6050
 
 ## Timestamps
 - 0:00 Start of event
