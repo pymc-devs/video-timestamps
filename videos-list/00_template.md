@@ -20,7 +20,7 @@ xxx
 xxx
 xxx
 
-Speaker info: 
+## Speaker info: 
 - GitHub:  
 - Twitter:  
 - LinkedIn:  
