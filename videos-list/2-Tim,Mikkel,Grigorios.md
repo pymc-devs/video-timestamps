@@ -7,6 +7,8 @@ Title: The MLDA multilevel sampler in PyMC3
 Event description: 
 This presentation will give you the chance to know more about PyMC3’s new multilevel MCMC sampler, MLDA, and help you use it in practice. MLDA exploits multilevel model hierarchies to improve sampling efficiency compared to standard methods, especially when working with high-dimensional problems where gradients are not available. We will present a step-by-step guide on how to use MLDA within PyMC3, go through its various features and also present some advanced use cases, e.g. employing multilevel PDE-based models written in FEniCS and using adaptive error correction to correct model bias between different levels.
 
+Discourse Discussion
+https://discourse.pymc.io/t/the-mlda-multilevel-sampler-in-pymc3-by-tim-dodwell-mikkel-lykkegaard-and-grigorios-mingas/5982
 
 ## Timestamps
 - 0:00 Start of event
