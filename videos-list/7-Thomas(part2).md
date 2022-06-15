@@ -27,14 +27,10 @@ Speaker bio:
 - Data scientist to follow of the year 2015, ODSC Open Source award 2018.
 
 Speaker info: 
-
-Website: https://twiecki.io
-
-GitHub: https://github.com/twiecki
-
-Twitter: https://twitter.com/twiecki
-
-LinkedIn: https://www.linkedin.com/in/thomas-wiecki-46339244/  
+-Website: https://twiecki.io
+-GitHub: https://github.com/twiecki
+-Twitter: https://twitter.com/twiecki
+-LinkedIn: https://www.linkedin.com/in/thomas-wiecki-46339244/  
 
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
