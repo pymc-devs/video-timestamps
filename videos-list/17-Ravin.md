@@ -8,6 +8,8 @@ Event description:
 
 Ravin Kumar kicks off PyMCon 2020.
 
+Discourse Discussion
+https://discourse.pymc.io/t/welcome-to-pymcon/5928
 
 ## Timestamps
 - 0:00 Start of event
