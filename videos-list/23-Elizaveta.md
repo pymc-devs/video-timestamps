@@ -8,6 +8,8 @@ Event description:
 
 We will build a simple but useful ordered logistic regression model to predict severity of drug-induced liver injury (DILI) from in vitro data and physicochemical properties of compounds.
 
+Discourse Discussion
+https://discourse.pymc.io/t/building-an-ordered-logistic-regression-model-for-toxicity-prediction-by-elizaveta-semenova/5953
 
 ## Timestamps
 - 0:00 Start of event
