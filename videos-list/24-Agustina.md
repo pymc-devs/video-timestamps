@@ -8,6 +8,8 @@ Event description:
 
 Interest for circular variables is present across a very diverse array of applied fields, from social and political sciences to geology and biology. They are very useful for the statistical modelling of, time, wind directions, bond angles between atoms or even swimming pattern in fish. In this talk, I will present an introduction to circular variables, mostly related to my work in ArviZ during the last GSoC and I will offer a glimpse on how to use PyMC3 and ArviZ to explore biomolecules 3D shapes.
 
+Discourse Discussion
+https://discourse.pymc.io/t/studying-glycan-3d-structures-with-pymc3-and-arviz-by-agustina-arroyuelo/5981
 
 ## Timestamps
 - 0:00 Start of event
