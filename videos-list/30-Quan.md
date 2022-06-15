@@ -9,6 +9,8 @@ Event description:
 
 At the heart of any machine learning (ML) problem is the identification of models that explain the data well, where learning about the model parameters, treated as random variables, is integral. Bayes’ theorem, and in general Bayesian learning, offers a principled framework to update one’s beliefs about an unknown quantity; Bayesian methods therefore play an important role in many aspects of ML. This introductory talk aims to highlight some of the most prominent areas in Bayesian ML from the perspective of statisticians and analysts, drawing parallels between these areas and common problems that Bayesian statisticians work on.
 
+Discourse Discussion
+https://discourse.pymc.io/t/bayesian-machine-learning-a-pymc-centric-introduction-by-quan-nguyen/5985
 
 ## Timestamps
 - 0:00 Start of event
