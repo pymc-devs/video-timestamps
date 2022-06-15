@@ -1,4 +1,5 @@
 ```txt
+
 Speaker: Ruben Mak
 
 Title: Using hierarchical models in instrumental variable analysis for advertising effectiveness
