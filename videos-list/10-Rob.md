@@ -7,6 +7,8 @@ Title: A Tour of Model Checking techniques
 Event description:
 Have you ever written a model in PyMC3 and aren’t sure if it’s any good? In this talk I will show you the many ways you can evaluate how will your model fits your data using PyMC3. Not all these techniques may be applicable for your particular problem but you will definitely walk away with a few new tricks for being confident in the models you fit.
 
+Discourse Discussion
+https://discourse.pymc.io/t/a-tour-of-model-checking-techniques-by-rob-zinkov/6056
 
 ## Timestamps
 - 0:00 Start of event
