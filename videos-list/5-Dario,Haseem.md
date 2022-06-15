@@ -7,6 +7,8 @@ Title: An alcohol? What are the chances! Knowledge-based and probabilistic model
 Event description: 
 We have used PyMC3 to formulate an explainable probabilistic model of chemical reactivity. This probabilistic model combines the intuitive concepts of high school chemistry with the computer’s ability to store and reason about large datasets. We use our model in the lab, where it guides a robot chemist towards "interesting" experiments that might lead to the discovery of new reactions.
 
+Discourse Discussion
+https://discourse.pymc.io/t/an-alcohol-what-are-the-chances-knowledge-based-and-probabilistic-models-in-chemistry-using-pymc3-by-hessam-mehr-dario-caramelli/6018
 
 ## Timestamps
 - 0:00 Start of event
