@@ -8,6 +8,8 @@ Event description:
 
 In this talk I will describe some of the unique challenges encountered in probabilistic modeling for astrophysics and some approaches taken to overcome these obstacles. In particular, I will discuss the motivation for and development of the domain-specific exoplanet package. This library implements a suite of custom Theano ops to evaluate astronomy-specific functions and their gradients, custom PyMC3 distributions for physically-motivated reparameterizations, and functions to help astronomers port existing habits to the PyMC3 ecosystem. exoplanet also includes an implementation of scalable Gaussian Process regression in one dimension that is generally applicable beyond astrophysics. Besides these technical details, I will also discuss some of the barriers that exist for domain scientists who are new to PyMC3, and some proposals for lowering these barriers.
 
+Discourse Discussion
+https://discourse.pymc.io/t/the-why-and-how-of-one-domain-specific-pymc3-extension-by-dan-foreman-mackey/5983
 
 ## Timestamps
 - 0:00 Start of event
