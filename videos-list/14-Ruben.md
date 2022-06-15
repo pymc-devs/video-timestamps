@@ -8,6 +8,9 @@ Event description:
 
 Due to unobserved confounders, users are often exposed to too many repetitive ads. We will show how we use instrumental variable analysis to prove this is ineffective for advertisers. The focus of the talk will be choosing the model assumptions and how to implement them in pymc3. Finally, we show how hierarchical modelling can be used to combine these models.
 
+Discourse
+https://discourse.pymc.io/t/using-hierarchical-models-in-instrumental-variable-analysis-for-advertising-effectiveness-by-ruben-mak/6021
+
 
 ## Timestamps
 - 0:00 Start of event
