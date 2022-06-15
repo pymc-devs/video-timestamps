@@ -22,9 +22,8 @@ Speaker bio:
 Ali is a data scientist and a lecturer. He is learning/teaching data science, machine learning, and artificial intelligence.
 
 Speaker info: 
-GitHub: 
-Twitter: https://twitter.com/aliakbars
-LinkedIn: https://uk.linkedin.com/in/aaseptiandri
+-Twitter: https://twitter.com/aliakbars
+-LinkedIn: https://uk.linkedin.com/in/aaseptiandri
 
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
