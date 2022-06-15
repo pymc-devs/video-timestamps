@@ -19,16 +19,12 @@ https://discourse.pymc.io/t/keynote-inferring-the-spread-of-sars-cov-2-and-measu
 https://github.com/pymc-devs/video-timestamps
 
 Speaker bio:
-
 Viola heads a research team at the Max Planck Institute for Dynamics and Self-Organization. She investigates the self-organization of spreading dynamics in the brain to understand the emergence of living computation. With the outbreak of COVID-19, she adapted these mathematical approaches to infer and predict the spread of SARS-CoV-2, and to investigate mitigation strategies. Viola is board member of the Campus Institute for Data Science and Fellow of the Schiemann Kolleg.
 
 Speaker info:
-
-Twitter: https://twitter.com/violapriesemann
-
-GitHub: https://github.com/vpriesem
-
-Website: http://www.viola-priesemann.de/
+-Twitter: https://twitter.com/violapriesemann
+-GitHub: https://github.com/vpriesem
+-Website: http://www.viola-priesemann.de/
 
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
