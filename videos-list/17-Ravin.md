@@ -2,7 +2,7 @@
 
 Speaker: Ravin Kumar
 
-Title: Welcome to PyMCom
+Title: Welcome to PyMCon
 
 Event description:
 
