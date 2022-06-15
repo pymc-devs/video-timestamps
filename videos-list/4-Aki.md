@@ -1,6 +1,6 @@
 ```txt
 
-Speaker: Aki Vehrati
+Speaker: Aki Vehtari
 
 Title:  [Keynote] These are a few of my favorite inference diagnostics
 
