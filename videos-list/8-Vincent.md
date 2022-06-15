@@ -6,6 +6,9 @@ Title: Priors of Great Potential - How you can add Fairness Constraints to Model
 
 Event description: Priors of Great Potential - How you can add Fairness Constraints to Models using Priors.
 
+Discourse Discussion
+https://discourse.pymc.io/t/priors-of-great-potential-how-you-can-add-fairness-constraints-to-models-using-priors-by-vincent-d-warmerdam-matthijs-brouns/5987
+
 
 ## Timestamps
 - 0:00 Start of event
