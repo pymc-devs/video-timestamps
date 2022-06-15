@@ -8,6 +8,8 @@ Event description:
 
 In this talk we will provide a brief introduction to Sequential Monte Carlo (SMC) methods and provide a guide to diagnose posterior samples computed using SMC.
 
+Discourse Discussion
+https://discourse.pymc.io/t/sequential-monte-carlo-introduction-and-diagnostics-by-pedro-german-ramirez-osvaldo-martin/6019
 
 ## Timestamps
 - 0:00 Start of event
