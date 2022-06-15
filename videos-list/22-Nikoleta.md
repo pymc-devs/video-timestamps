@@ -8,6 +8,8 @@ Event description:
 
 There is a vital need for alternative methods to animal testing to assess compounds for their potency of inducing developmental neurotoxicity such as learning disabilities in children. However, data are often limited and complex in structure. Therefore, Bayesian approaches are perfect to unravel their meaning and create predictive models. In this talk, I will showcase a multilevel probabilistic model and outline how to deal with unbalanced, correlated and missing values. This presentation will be of interest for those willing to learn multilevel modelling in PyMC3, how to deal with missing values for both predictors and outcomes of data matrices, and their application to a real problem in toxicology.
 
+Discourse Discussion
+https://discourse.pymc.io/t/estimating-the-causal-network-of-developmental-neurotoxicants-using-pymc3-by-nicoleta-spinu/6027
 
 ## Timestamps
 - 0:00 Start of event
