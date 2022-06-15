@@ -1,4 +1,5 @@
 ```txt
+
 Speakers: Osvaldo Martin and Pedro German Ramirez
 
 Title: Sequential Monte Carlo: Introduction and diagnostics
