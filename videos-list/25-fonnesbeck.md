@@ -20,16 +20,12 @@ https://discourse.pymc.io/t/the-bayesian-workflow-building-a-covid-19-model-by-t
 https://github.com/pymc-devs/video-timestamps
 
 Speaker bio:
-
 Chris Fonnesback is a Senior Quantitative Analyst in Baseball Operations for the New York Yankees. He is interested in computational statistics, machine learning, Bayesian methods, and applied decision analysis. He hails from Vancouver, Canada and received his Ph.D. from the University of Georgia.
 
 Speaker info:
-
-Twitter:  https://twitter.com/fonnesbeck
-
-GitHub:  https://github.com/fonnesbeck 
-
-LinkedIn:  https://www.linkedin.com/in/christopher-fonnesbeck-374a492a/
+-Twitter:  https://twitter.com/fonnesbeck
+-GitHub:  https://github.com/fonnesbeck 
+-LinkedIn:  https://www.linkedin.com/in/christopher-fonnesbeck-374a492a/
 
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
