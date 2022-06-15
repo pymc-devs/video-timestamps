@@ -10,7 +10,6 @@ I discuss some old and some more recent inference diagnostics methods for Markov
 Discourse Discussion
 https://discourse.pymc.io/t/keynote-these-are-a-few-of-my-favorite-inference-diagnostics-by-aki-vehtari/6180
 
-
 ## Timestamps
 - 0:00 Start of event
 - x:xx 
@@ -20,20 +19,14 @@ https://discourse.pymc.io/t/keynote-these-are-a-few-of-my-favorite-inference-dia
 https://github.com/pymc-devs/video-timestamps
 
 Speaker bio:
-
 Aki is an Associate professor in computational probabilistic modeling at Aalto University, Finland.
-
 His numerous research interests are Bayesian probability theory and methodology, especially probabilistic programming, inference methods, model assessment and selection, non-parametric models such as Gaussian processes, dynamic models, and hierarchical models.
-
 Aki is also a co-author of the popular and awarded book « Bayesian Data Analysis », Third Edition, and the brand new « Regression and other stories ». He is also a core-developer of the seminal probabilistic programming framework Stan. An enthusiast of open-source software, Aki has been involved in many free software projects such as GPstuff for Gaussian processes and ELFI for likelihood inference.
 
 Speaker info:
-
-Twitter: https://twitter.com/avehtari
-
-GitHub: https://github.com/avehtari
-
-Website: https://users.aalto.fi/~ave/
+-Twitter: https://twitter.com/avehtari
+-GitHub: https://github.com/avehtari
+-Website: https://users.aalto.fi/~ave/
 
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
