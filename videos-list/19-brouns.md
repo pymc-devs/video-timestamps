@@ -31,5 +31,5 @@ LinkedIn: https://www.linkedin.com/in/mbrouns/
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #timeseries #prophet
+#bayesian #timeseries #facebookprophet #forecasting
 ```
