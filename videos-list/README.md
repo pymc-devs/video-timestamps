@@ -1,7 +1,8 @@
 ## References
 - Videos are here:  https://www.youtube.com/c/PyMCDevelopers/videos
 - Number of videos: https://www.youtube.com/results?search_query=pymc+developers 
-- PyMCon 2020 speaker info: https://pymc-devs.github.io/pymcon/speakers 
+- PyMCon 2020 speaker info: https://pymc-devs.github.io/pymcon/speakers
+- Discourse info for PyCon2020:  https://discourse.pymc.io/c/events/2020talks/15
 
 ## Template
 - Event Description TEMPLATE:  https://github.com/pymc-devs/video-timestamps/blob/main/videos-list/00_template.md
@@ -17,7 +18,7 @@ In the description section, include:
 - Speaker bio
 - Speaker social media links
 - Link to PyMCon 2020 page
-- hashtags
+- Hashtags (Some standard hashtags to use:  #bayesian #python #probabilistic #opensource)
 
 Videos that need **descriptions** (sorted by most recent).
 
@@ -32,7 +33,7 @@ Videos that need **descriptions** (sorted by most recent).
 - [ ] 25 [Chris Fonnesbeck, Keynote](https://www.youtube.com/watch?v=RXODDVK7B-g) (@reshamas)
 - [ ] 24 [Agustina Arroyuelo, Glycan 3D](https://www.youtube.com/watch?v=Rt8yEY6Fk80)
 - [ ] 23 [Elizaveta Semenova, Toxicity prediction](https://www.youtube.com/watch?v=fxydbmTfsk4)
-- [ ] 22 [Nicoleta Spinu, Causal network](https://www.youtube.com/watch?v=2nfcwZCLDAE)
+- [ ] 22 [Nicoleta Spînu, Causal network](https://www.youtube.com/watch?v=2nfcwZCLDAE)
 - [ ] 21 [Max Sklar, What is probability?](https://www.youtube.com/watch?v=cv2TvH7r6W0)
 - [ ] 20 [Alex Andorra, Multinomal regression](https://www.youtube.com/watch?v=EYdIzSYwbSw)
 - [ ] 19 [Matthijs Brouns, Hierarchical](https://www.youtube.com/watch?v=appLxcMLT9Y) (@reshamas)
