@@ -18,7 +18,7 @@ In the description section, include:
 - Speaker bio
 - Speaker social media links
 - Link to PyMCon 2020 page
-- hashtags
+- Hashtags (Some standard hashtags to use:  #bayesian #python #probabilistic #opensource)
 
 Videos that need **descriptions** (sorted by most recent).
 
