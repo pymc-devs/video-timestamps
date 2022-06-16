@@ -33,7 +33,7 @@ Videos that need **descriptions** (sorted by most recent).
 - [ ] 25 [Chris Fonnesbeck, Keynote](https://www.youtube.com/watch?v=RXODDVK7B-g) (@reshamas)
 - [ ] 24 [Agustina Arroyuelo, Glycan 3D](https://www.youtube.com/watch?v=Rt8yEY6Fk80)
 - [ ] 23 [Elizaveta Semenova, Toxicity prediction](https://www.youtube.com/watch?v=fxydbmTfsk4)
-- [ ] 22 [Nicoleta Spinu, Causal network](https://www.youtube.com/watch?v=2nfcwZCLDAE)
+- [ ] 22 [Nicoleta Spînu, Causal network](https://www.youtube.com/watch?v=2nfcwZCLDAE)
 - [ ] 21 [Max Sklar, What is probability?](https://www.youtube.com/watch?v=cv2TvH7r6W0)
 - [ ] 20 [Alex Andorra, Multinomal regression](https://www.youtube.com/watch?v=EYdIzSYwbSw)
 - [ ] 19 [Matthijs Brouns, Hierarchical](https://www.youtube.com/watch?v=appLxcMLT9Y) (@reshamas)
