@@ -1,6 +1,6 @@
 ```txt
 
-Speaker: Dario Caramelli and Haseem Mehr
+Speaker: Dario Caramelli and Hessam Mehr
 
 Title: An alcohol? What are the chances! Knowledge-based and probabilistic models in chemistry using PyMC3
 
