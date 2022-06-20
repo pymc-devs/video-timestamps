@@ -2,10 +2,12 @@
 
 Speaker: Tim Dodwell, Mikkel Lykkegaard and Grigorios Mingas
 
-Title: The MLDA multilevel sampler in PyMC3
+Title: The MLDA multilevel sampler in PyMC
+
+Video: https://www.youtube.com/watch?v=NvsGyvAElLY
 
 Event description: 
-This presentation will give you the chance to know more about PyMC3’s new multilevel MCMC sampler, MLDA, and help you use it in practice. MLDA exploits multilevel model hierarchies to improve sampling efficiency compared to standard methods, especially when working with high-dimensional problems where gradients are not available. We will present a step-by-step guide on how to use MLDA within PyMC3, go through its various features and also present some advanced use cases, e.g. employing multilevel PDE-based models written in FEniCS and using adaptive error correction to correct model bias between different levels.
+This presentation will give you the chance to know more about PyMC’s new multilevel MCMC sampler, MLDA, and help you use it in practice. MLDA exploits multilevel model hierarchies to improve sampling efficiency compared to standard methods, especially when working with high-dimensional problems where gradients are not available. We will present a step-by-step guide on how to use MLDA within PyMC3, go through its various features and also present some advanced use cases, e.g. employing multilevel PDE-based models written in FEniCS and using adaptive error correction to correct model bias between different levels.
 
 Discourse Discussion
 https://discourse.pymc.io/t/the-mlda-multilevel-sampler-in-pymc3-by-tim-dodwell-mikkel-lykkegaard-and-grigorios-mingas/5982
@@ -31,11 +33,11 @@ Mikkel Lykkegaard is a PhD student with the Data Centric Engineering Group and C
  
 Dr. Grigorios Mingas is a Senior Research Data Scientist at The Alan Turing Institute. He received his PhD from Imperial College London, where he co-designed MCMC algorithms and hardware to accelerate Bayesian inference. He has experience in a wide range of projects as a data scientist.
 
--Github: https://github.com/gmingas
+-GitHub: https://github.com/gmingas
 -LinkedIn: https://uk.linkedin.com/in/gmingas
 
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #timeseries #prophet
+#bayesian #PyMC #statistics
 ```
