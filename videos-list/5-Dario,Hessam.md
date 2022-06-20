@@ -35,5 +35,5 @@ Hessam Mehr is a research associate in the Cronin group at the University of Gla
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #PyMC #probabilistic
+#bayesian #statistics #probabilistic
 ```
