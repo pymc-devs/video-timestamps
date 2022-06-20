@@ -21,8 +21,8 @@
 ## Videos
 
 ## References
-- Videos are here:  https://www.youtube.com/c/PyMCDevelopers/videos
-- Timestamps can be added to the files here:  https://github.com/pymc-devs/video-timestamps/blob/main/videos-list/
+- Videos are here:  [PyMC Dev videos](https://www.youtube.com/c/PyMCDevelopers/videos)
+- Timestamps can be added to the files here:  [videos-list](https://github.com/pymc-devs/video-timestamps/blob/main/videos-list/)
 
 Videos that need **timestamps**:
 
