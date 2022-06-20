@@ -4,6 +4,8 @@ Speaker: Viola Priesemann
 
 Title:  [Keynote] Inferring the spread of SARS-CoV-2 --- and measures to mitigate it
 
+Video: https://www.youtube.com/watch?v=btHkSlePV5Q
+
 Event description:
 With the second waves of COVID-19 unfolding in most European countries, it is worth to look back at the first wave and especially the past summer, where case numbers were case numbers stayed low. I will present approaches to infer the effectiveness of interventions, and models to explore their potential. This talk will be interesting for anyone wanting to understand the current and potential future dynamics of COVID-19.
 
@@ -29,5 +31,5 @@ Speaker info:
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #statistics #probabilistic
+#bayesian #statistics #PyMCon
 ```
