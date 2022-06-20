@@ -4,6 +4,8 @@ Speaker: Evdoxia Taka
 
 Title: Automatic transformation of Bayesian probabilistic models into interactive visualizations
 
+Video: https://www.youtube.com/watch?v=2hadiSJRAJI
+
 Event description:
 Automatic transformation of Bayesian probabilistic models into interactive visualisations: models expressed in a probabilistic programming language are translated automatically into interactive multiverse diagrams, a graphical representation of the model’s structure at varying levels of granularity, with seamless integration of uncertainty visualisation. A concrete implementation in Python that translates probabilistic programs to interactive multiverse diagrams will be presented and illustrated by examples for a variety of Bayesian probabilistic models.
 
