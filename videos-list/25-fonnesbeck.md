@@ -5,8 +5,9 @@ Speaker: Chris Fonnesbeck
 Title:  [Keynote] PyMC: Past, Present, and Future
 
 Event description:
-
 To kick off PyMCon 2020, I will provide some of the back-story of the PyMC project: where we’ve been, where we are, and where we might go.
+
+Video: https://www.youtube.com/watch?v=RXODDVK7B-g
 
 Discourse Discussion
 https://discourse.pymc.io/t/the-bayesian-workflow-building-a-covid-19-model-by-thomas-wiecki/6017
@@ -30,5 +31,5 @@ Speaker info:
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #statistics #probabilistic
+#bayesian #statistics #PyMC
 ```
