@@ -4,6 +4,8 @@ Speaker: Allen Downey
 
 Title: The Bayesian Zig Zag: Developing and Testing PyMC Models
 
+Video: https://www.youtube.com/watch?v=EYS3oDhLsP0
+
 Event description: 
 Tools like PyMC make it easy to implement probablistic models, but it is still challenging to develop and validate those models. In this talk, I present an incremental strategy for developing and testing models by alternating between forward and inverse probabilities and between grid algorithms and MCMC. I’ll use Poisson processes as an example, but this strategy applies to other probabilistic models.
 
@@ -23,11 +25,11 @@ Allen Downey is a professor of Computer Science at Olin College and Visiting Lec
 
 Speaker info:
 -Twitter: https://twitter.com/allendowney
--Github: https://github.com/AllenDowney
+-GitHub: https://github.com/AllenDowney
 -Website: http://allendowney.com/
 
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #timeseries #prophet
+#bayesian #PyMC #probabilistic
 ```
