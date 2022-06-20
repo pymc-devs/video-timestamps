@@ -2,7 +2,7 @@
 
 Speaker: Rob Zinkov
 
-Title: A Tour of Model Checking techniques
+Title: A Tour of Model Checking Techniques
 
 Video: https://www.youtube.com/watch?v=vfqPGGCpY6I
 
