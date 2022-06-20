@@ -4,6 +4,8 @@ Speaker: Aki Vehtari
 
 Title:  [Keynote] These are a few of my favorite inference diagnostics
 
+Video: https://www.youtube.com/watch?v=HKPm6txxxQM
+
 Event description:
 I discuss some old and some more recent inference diagnostics methods for Markov chain Monte Carlo, importance sampling, and variational inference. When the convergence fails, I simply remember my favorite inference diagnostics, and then I don’t feel so bad.
 
