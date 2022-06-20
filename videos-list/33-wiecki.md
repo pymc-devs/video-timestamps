@@ -5,8 +5,9 @@ Speaker: Thomas Wiecki
 Title:  The Bayesian Workflow: Building a COVID-19 Model (Part 1)
 
 Event description:
-
 In this tutorial we will build a COVID-19 model from scratch.
+
+Video: https://www.youtube.com/watch?v=ZxR3mw-Znzc
 
 Discourse Discussion
 https://discourse.pymc.io/t/the-bayesian-workflow-building-a-covid-19-model-by-thomas-wiecki/6017
