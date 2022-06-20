@@ -4,8 +4,10 @@ Speaker: Junpeng Lao
 
 Title: Partial Missing Multivariate observation and what to do with them
 
+Video: https://www.youtube.com/watch?v=nJ3XefApED0
+
 Event description:
-Missing value is pretty common in any real world data set. While PyMC3 provides convenient automatic imputation, how do we verify it works, especially dealing with multivariate observation with partially missing value? Come to this tutorial to find out!
+Missing value is pretty common in any real world data set. While PyMC provides convenient automatic imputation, how do we verify it works, especially dealing with multivariate observation with partially missing value? Come to this tutorial to find out!
 
 Discourse Discussion
 https://discourse.pymc.io/t/partial-missing-multivariate-observation-and-what-to-do-with-them-by-junpeng-lao/6050
@@ -29,5 +31,5 @@ Speaker info:
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #timeseries #prophet
+#bayesian #PyMC 
 ```
