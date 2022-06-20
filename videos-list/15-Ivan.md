@@ -2,10 +2,12 @@
 
 Speaker: Ivan Yashchuk
 
-Title: Including partial differential equations in your PyMC3 model
+Title: Including partial differential equations in your PyMC model
+
+Video: https://www.youtube.com/watch?v=8FC1umbf67o
 
 Event description:
-This tutorial will demonstrate use of PyMC3 for PDE-based inverse problems. We will infer parameters of a simple continuum mechanics model but the demonstrated tools can be readily applied to other complex PDE-based models.
+This tutorial will demonstrate use of PyMC for PDE-based inverse problems. We will infer parameters of a simple continuum mechanics model but the demonstrated tools can be readily applied to other complex PDE-based models.
 
 Discourse Discussion
 https://discourse.pymc.io/t/including-partial-differential-equations-in-your-pymc3-model-by-ivan-yashchuk/6016
@@ -29,5 +31,5 @@ Speaker info:
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #timeseries #prophet
+#bayesian #PyMC 
 ```
