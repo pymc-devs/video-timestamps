@@ -4,6 +4,8 @@ Speaker: Elizaveta Semenova
 
 Title: Building an ordered logistic regression model for toxicity prediction  
 
+Video: https://www.youtube.com/watch?v=fxydbmTfsk4
+
 Event description:
 We will build a simple but useful ordered logistic regression model to predict severity of drug-induced liver injury (DILI) from in vitro data and physicochemical properties of compounds.
 
@@ -29,5 +31,5 @@ Speaker info:
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #timeseries #prophet
+#bayesian #regression #statistics
 ```
