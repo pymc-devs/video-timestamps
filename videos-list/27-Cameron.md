@@ -4,6 +4,8 @@ Speaker: Cameron Davidson-Pilon
 
 Title: Microbial cell counting in a noisy environment
 
+Video: https://www.youtube.com/watch?v=Oc6cgRwPEzU
+
 Event description:
 In this LBAM, we’ll introduce the microbiological task of cell counting and understand all the potential sources of error involved. We’ll model each source of error probabilistically, introduce priors, and then discuss inference on the posterior. Finally, we’ll explore how we can extend our model to use in a calibration curve for other instruments. Only basic probability theory is required for this LBAM.
 
@@ -28,5 +30,5 @@ Speaker info:
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #timeseries #prophet
+#bayesian #probabilistic
 ```
