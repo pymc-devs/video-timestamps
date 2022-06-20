@@ -31,5 +31,5 @@ Speaker info:
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #statistics #PyMCon
+#bayesian #statistics #covid19
 ```
