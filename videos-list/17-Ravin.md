@@ -7,7 +7,6 @@ Title: Welcome to PyMCon
 Video: https://www.youtube.com/watch?v=LTLfeNyioR8
 
 Event description:
-
 Ravin Kumar kicks off PyMCon 2020.
 
 Discourse Discussion
