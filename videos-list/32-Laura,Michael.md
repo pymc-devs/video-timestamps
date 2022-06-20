@@ -35,5 +35,5 @@ Michael Osthege is a biotech Bayesian by choice. He likes to work with robots, b
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #statistics #PyMC
+#bayesian #statistics #python
 ```
