@@ -4,6 +4,8 @@ Speaker: Ali Akbar Septiandri
 
 Title: My Journey in Learning and Relearning Bayesian Statistics 
 
+Video: https://www.youtube.com/watch?v=Ym9GRRZQZrQ
+
 Event description:
 My journey in learning (and relearning) Bayesian methods as a computer scientist
 
@@ -28,5 +30,5 @@ Speaker info:
 Part of PyMCon2020. 
 More details at http://www.pymcon.com  
 
-#bayesian #timeseries #prophet
+#bayesian #statistics
 ```
