@@ -53,8 +53,8 @@ Videos that need **descriptions** (sorted by most recent).
 - [ ] 05 [Dario and Hessam, Models in chemistry](https://www.youtube.com/watch?v=q8n8XD-cB90)
 - [ ] 04 [Aki Vehrati, Inference diagnostics](https://www.youtube.com/watch?v=HKPm6txxxQM)
 - [ ] 03 [Viola Priesemann, SARS-COV-2 spread inferring](https://www.youtube.com/watch?v=btHkSlePV5Q)
-- [ ] 02 [Tim. Mikkel and Grigorios, MLDA mulrilevel sampler](https://www.youtube.com/watch?v=NvsGyvAElLY)
-- [x] 01 [Core members, PyMC + Tidelift](https://www.youtube.com/watch?v=cP_fD5AlVYw) (done by @reshamas)
+- [ ] 02 [Tim D, Mikkel L and Grigorios M, MLDA multilevel sampler](https://www.youtube.com/watch?v=NvsGyvAElLY)
+- [x] 01 [Interviews with PyMC Team members + Community (Tidelift)](https://www.youtube.com/watch?v=cP_fD5AlVYw) (done by @reshamas)
 
 
 #### Task 2: Create thumbnails in Canva

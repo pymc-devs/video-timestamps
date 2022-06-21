@@ -6,6 +6,8 @@ Speakers: Luciano Paz, Junpeng Lao, Chris Krapu, Corrie Bartelheimer, Austin Roc
 
 Title: Interview with PyMC Maintainers and Community Members (sponsored by Tidelift)
 
+Video: https://youtu.be/cP_fD5AlVYw
+
 ## Event description:
 Listen to our community speak about what makes PyMC3 special, how it can help your company and why subscribing to Tidelift is a win-win for both open source projects and the enterprises that use them.
 
