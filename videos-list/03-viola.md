@@ -13,9 +13,9 @@ Discourse Discussion
 https://discourse.pymc.io/t/keynote-inferring-the-spread-of-sars-cov-2-and-measures-to-mitigate-it-by-viola-priesemann/6179
 
 ## Timestamps
-00:00:00 Introductory words by Viola
-00:00:48 The daily new confirmed COVID-19 cases
-00:01:39 The agenda of the talk
+00:00 Introductory words by Viola
+00:48 The daily new confirmed COVID-19 cases
+01:39 The agenda of the talk
 00:02:19 Infection chains and the reproduction number R
 00:04:17 Subsampling theory
 00:05:41 Part 1: Effectiveness of interventions
