@@ -8,17 +8,13 @@
 
 :pray: Your helpful contribution is greatly appreciated!!
 
-## Instructions
+---
 
-1. Watch the video and add descriptive timestamps to the issue you opened.
-2. To submit your timestamps, there are two options:
-  * Open a new issue with the videos title to "claim" the video such that there's no overlapping work
-  * Create a pull request with the timestamps in this folder: [videos-list](https://github.com/pymc-devs/video-timestamps/tree/main/videos-list)
-3. Below is a preliminary list. The [video descriptions](https://www.youtube.com/c/PyMC-Developers) can first be checked to see if the timestamps are there or not.
-4. When you pick a video to work work, please open an issue, so two people are not working on the same video (avoid duplicating work).
-5. Please pick one video at a time.  
+## Instruction
 
-## List of Videos in this ISSUE
+See [Issue 11](https://github.com/pymc-devs/video-timestamps/issues/11) for instructions. 
 
-https://github.com/pymc-devs/video-timestamps/issues/11
+
+
+
 
