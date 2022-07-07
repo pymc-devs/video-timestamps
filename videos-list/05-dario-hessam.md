@@ -33,10 +33,6 @@ https://discourse.pymc.io/t/an-alcohol-what-are-the-chances-knowledge-based-and-
 - 17:15 Problem specific to solving this
 - 18:53 Acknowledgements
 
-
-## Note: help us add timestamps here
-https://github.com/pymc-devs/video-timestamps
-
 Speaker bio:
 Dario Caramelli is a research associate in the Cronin group at the University of Glasgow. His research involves building and programming of autonomous robots for reaction discovery as well as the development of algorithms for chemical space modelling and data processing. Dario obtained a Master degree in Organic chemistry in Rome (2015) and a PhD in the Cronin group (2019).
 
