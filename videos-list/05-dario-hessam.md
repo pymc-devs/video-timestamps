@@ -13,9 +13,26 @@ Discourse Discussion
 https://discourse.pymc.io/t/an-alcohol-what-are-the-chances-knowledge-based-and-probabilistic-models-in-chemistry-using-pymc3-by-hessam-mehr-dario-caramelli/6018
 
 ## Timestamps
-- 0:00 Start of event
-- x:xx 
-- x:xx
+- 0:00 Introduction Dario and Hessam
+- 0:26 Digitizing chemistry
+- 0:46 Automated synthesis
+- 1:10 Automated discovery
+- 2:50 Hardware
+- 3:19 Starting materials
+- 3:38 Reactivity assignment
+- 4:54 How to infer reactivity?
+- 5:58 Abstract properties
+- 7:03 Coming up with a plan for a model
+- 7:50 Algorithm: Mechanics
+- 9:31 Working with chemical structures
+- 10:05 Compound motifs
+- 11:27 Simulating discovery
+- 13:36 Algorithm: exploration
+- 15:31 Limitations and Growing pains
+- 15:45 Issues with performance
+- 17:15 Problem specific to solving this
+- 18:53 Acknowledgements
+
 
 ## Note: help us add timestamps here
 https://github.com/pymc-devs/video-timestamps
