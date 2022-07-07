@@ -13,25 +13,25 @@ Discourse Discussion
 https://discourse.pymc.io/t/an-alcohol-what-are-the-chances-knowledge-based-and-probabilistic-models-in-chemistry-using-pymc3-by-hessam-mehr-dario-caramelli/6018
 
 ## Timestamps
-- 0:00 Introduction Dario and Hessam
-- 0:26 Digitizing chemistry
-- 0:46 Automated synthesis
-- 1:10 Automated discovery
-- 2:50 Hardware
-- 3:19 Starting materials
-- 3:38 Reactivity assignment
-- 4:54 How to infer reactivity?
-- 5:58 Abstract properties
-- 7:03 Coming up with a plan for a model
-- 7:50 Algorithm: Mechanics
-- 9:31 Working with chemical structures
-- 10:05 Compound motifs
-- 11:27 Simulating discovery
-- 13:36 Algorithm: exploration
-- 15:31 Limitations and Growing pains
-- 15:45 Issues with performance
-- 17:15 Problem specific to solving this
-- 18:53 Acknowledgements
+00:00 Introduction Dario and Hessam
+00:26 Digitizing chemistry
+00:46 Automated synthesis
+01:10 Automated discovery
+02:50 Hardware
+03:19 Starting materials
+03:38 Reactivity assignment
+04:54 How to infer reactivity?
+05:58 Abstract properties
+07:03 Coming up with a plan for a model
+07:50 Algorithm: Mechanics
+09:31 Working with chemical structures
+10:05 Compound motifs
+11:27 Simulating discovery
+13:36 Algorithm: exploration
+15:31 Limitations and Growing pains
+15:45 Issues with performance
+17:15 Problem specific to solving this
+18:53 Acknowledgements
 
 Speaker bio:
 Dario Caramelli is a research associate in the Cronin group at the University of Glasgow. His research involves building and programming of autonomous robots for reaction discovery as well as the development of algorithms for chemical space modelling and data processing. Dario obtained a Master degree in Organic chemistry in Rome (2015) and a PhD in the Cronin group (2019).
