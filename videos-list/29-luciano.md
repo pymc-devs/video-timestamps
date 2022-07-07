@@ -14,8 +14,25 @@ https://discourse.pymc.io/t/posterior-predictive-sampling-in-pymc3-by-luciano-pa
 
 ## Timestamps
 - 0:00 Start of event
-- x:xx 
-- x:xx
+- 0:22 Background on PyMC3 common workflow and posterior predictive distribution
+- 2:56 What is this presentation about?
+- 3:19 Simple model without posterior predictive problems
+- 4:27 Create train and test data
+- 5:12 Translate the math into PyMC3
+- 6:52 Visualize and plot the model and predictions
+- 8:20 Make predictions on the new data
+- 9:29 Shape problems 
+- 12:46 A simple extension of linear regression
+- 17:26 View the results of the extension
+- 17:50 Error on the test data
+- 19:15 What happens if we try to marginalize label out of the model?
+- 21:38 Shape problem with the test data
+- 22:55 Solution, a functional approach 
+- 27:50 Factory functions aren’t a silver bullet
+- 28:12 Manually trim the inferred posterior
+- 29:22 Challenges with sampling 
+- 32:10 How can PyMC help?
+- 32:45 Conclusion
 
 ## Note: help us add timestamps here
 https://github.com/pymc-devs/video-timestamps
