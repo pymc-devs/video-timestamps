@@ -20,7 +20,7 @@ https://discourse.pymc.io/t/the-bayesian-workflow-building-a-covid-19-model-by-t
 05:24 Bayesian workflow 
 06:52 Plot the data for Germany cases
 08:11 Instantiate model and set parameters for exponential regression
-12:26 Run priori predictive check
+12:26 Run prior predictive check
 14:24 Fit model
 15:00 Mass matrix traceback and sampling issues 
 18:35 Proposing a better model - update parameters and likelihood distribution
