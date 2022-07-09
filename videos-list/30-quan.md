@@ -23,7 +23,7 @@ https://discourse.pymc.io/t/bayesian-machine-learning-a-pymc-centric-introductio
 06:55 The posterior distribution
 09:58 Applying Gaussian Processes (GP) to model a latent function
 14:18 Defining hyperparameters of a GP model
-16:15 How to leverage the posterior predictive distribution for machine learning
+16:15 What makes these Bayesian technique unique to machine learning
 17:07 Example: Linear regression using Bayesian techniques
 20:52 Applying the Bayesian framework to neural networks
 22:31 Part 2: Bayesian Decision Theory
@@ -34,8 +34,8 @@ https://discourse.pymc.io/t/bayesian-machine-learning-a-pymc-centric-introductio
 31:39 The Bayesian optimal policy
 33:03 The Upper-Confidence Bound (UCB) policy
 34:24 The Thompson Sampling policy
-36:56 Bayesian optimization: using Bayesian techniques to minimize costs
-39:02 Applying Gaussian Processes (GP) to find the function maximizer
+36:56 Bayesian optimization: A framework to minimize costs
+39:02 Applying Gaussian Processes (GP) to help identify the function maximizer
 40:54 Using the posterior belief to approximate Bayesian optimal policies
 42:20 Distribution of the true maximizer
 44:28 Other Bayesian decision-making problems
