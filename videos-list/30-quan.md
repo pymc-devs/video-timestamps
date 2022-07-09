@@ -23,7 +23,7 @@ https://discourse.pymc.io/t/bayesian-machine-learning-a-pymc-centric-introductio
 06:55 The posterior distribution
 09:58 Applying Gaussian Processes (GP) to model a latent function
 14:18 Defining hyperparameters of a GP model
-16:15 What makes these Bayesian technique unique to machine learning
+16:15 What makes these Bayesian techniques unique to machine learning
 17:07 Example: Linear regression using Bayesian techniques
 20:52 Applying the Bayesian framework to neural networks
 22:31 Part 2: Bayesian Decision Theory
