@@ -13,7 +13,7 @@ Discourse Discussion
 https://discourse.pymc.io/t/posterior-predictive-sampling-in-pymc3-by-luciano-paz/6028
 
 ## Timestamps
-- 0:00 Start of event
+00:00 Start of event
 - 0:22 Background on PyMC3 common workflow and posterior predictive distribution
 - 2:56 What is this presentation about?
 - 3:19 Simple model without posterior predictive problems
