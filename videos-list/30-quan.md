@@ -13,12 +13,33 @@ Discourse Discussion
 https://discourse.pymc.io/t/bayesian-machine-learning-a-pymc-centric-introduction-by-quan-nguyen/5985
 
 ## Timestamps
-- 0:00 Start of event
-- x:xx 
-- x:xx
-
-## Note: help us add timestamps here
-https://github.com/pymc-devs/video-timestamps
+00:00 Introduction by Quan
+00:58 Agenda of the talk
+01:39 Part 1: Bayesian Modeling 
+02:43 The prior distribution
+03:55 The likelihood function
+05:07 Applying Bayes' theorem to make an inference
+05:48 Using sampling techniques to approximate the integral
+06:55 The posterior distribution
+09:58 Applying Gaussian Processes (GP) to model a latent function
+14:18 Defining hyperparameters of a GP model
+16:15 What makes these Bayesian techniques unique to machine learning
+17:07 Example: Linear regression using Bayesian techniques
+20:52 Applying the Bayesian framework to neural networks
+22:31 Part 2: Bayesian Decision Theory
+23:50 Example: The price is right
+24:57 The utility function
+26:34 Visualizing the optimal decision
+28:05 Example: The multi-armed bandit problem
+31:39 The Bayesian optimal policy
+33:03 The Upper-Confidence Bound (UCB) policy
+34:24 The Thompson Sampling policy
+36:56 Bayesian optimization: A framework to minimize costs
+39:02 Applying Gaussian Processes (GP) to help identify the function maximizer
+40:54 Using the posterior belief to approximate Bayesian optimal policies
+42:20 Distribution of the true maximizer
+44:28 Other Bayesian decision-making problems
+46:27 Conclusion
 
 Speaker bio:
 Quan is a Bayesian statistics enthusiast (and a programmer at heart). He is the author of several programming books on Python and scientific programming. Quan is currently pursuing a Ph.D. in computer science at Washington University in St. Louis, researching Bayesian methods in machine learning.
