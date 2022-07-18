@@ -19,7 +19,7 @@ https://discourse.pymc.io/t/what-is-probability-a-philosophical-question-with-pr
 04:26 What this talk is about
 05:49 First example: Does the ad work or not?
 07:45 Another example: Election predictions
-09:00 Subjective probabilities and believes
+09:00 Subjective probabilities and beliefs
 10:25 A probabilistic guess who
 12:07 The dominant frequentists view
 13:59 Controlled experiments
