@@ -24,7 +24,7 @@ https://discourse.pymc.io/t/the-bayesian-workflow-building-a-covid-19-model-by-t
 03:45 The generative model 
 04:21 Dataset - US new daily cases 
 04:42 Build a generative model using a recursive function for new cases
-06:03 Mapp the recursive loop into pymc3 object with theano.scan
+06:03 Translate the recursive loop into a pymc3 object with theano.scan
 07:06 Instantiate model and set parameters 
 10:33 Follow the bayesian workflow 
 11:25 Time varying reproduction
