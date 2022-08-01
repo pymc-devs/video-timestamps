@@ -20,9 +20,9 @@ https://discourse.pymc.io/t/a-bayesian-approach-to-media-mix-modeling-by-michael
 - Model applications
 
 ## Timestamps
-0:00 Introduction and outline of presentation
-1:16 Marketing at HelloFresh (funnels, conversion, channels)
-2:40 Measuring the effectiveness of marketing
+00:00 Introduction and outline of presentation
+01:16 Marketing at HelloFresh (funnels, conversion, channels)
+02:40 Measuring the effectiveness of marketing
 05:00 What is Media Mix Modelling? Multivariate regression model
 06:20 Structure of a Media Mix Model
 07:51 Transformation functions (Reach function and Adstock function)
