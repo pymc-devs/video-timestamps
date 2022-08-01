@@ -20,12 +20,21 @@ https://discourse.pymc.io/t/a-bayesian-approach-to-media-mix-modeling-by-michael
 - Model applications
 
 ## Timestamps
-0:00 Outline of presenation
+0:00 Introduction and outline of presentation
 1:16 Marketing at HelloFresh (funnels, conversion, channels)
 2:40 Measuring the effectiveness of marketing
-5:00 Multivariate regression model
+05:00 What is Media Mix Modelling? Multivariate regression model
+06:20 Structure of a Media Mix Model
+07:51 Transformation functions (Reach function and Adstock function)
+10:53 Benefits of using Bayesian methods to build a Media Mix Model
+13:07 HelloFresh's Media Mix Model structure
+19:46 Geometric Adstock Function
+20:54 Nonlinear Saturation Function
+21:16 The Bayesian MMM workflow
+22:39 Applications of HelloFresh's Media Mix Model
+26:41 Constrained optimization algorithm
+29:18 Thank you!
 
-x:xx Help us add timestamps here: https://github.com/pymc-devs/video-timestamps
 
 Speaker info: 
 Michael Johns is a data scientist at HelloFresh US. His work focuses on building statistical models for business applications, such as optimizing marketing strategy, customer acquisition forecasting and customer retention.
