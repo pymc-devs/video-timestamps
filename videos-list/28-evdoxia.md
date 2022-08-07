@@ -17,7 +17,7 @@ https://discourse.pymc.io/t/automatic-transformation-of-bayesian-probabilistic-m
 00:32 Dissemination in Bayesian analysis: status quo
 01:00 Limitations
 03:07 Takeaway: Bayesian analysis communication
-03:35 Representation of probabilistic models: DoodleBUGS, PyMC3, Kruschke-style Diagram
+03:35 Representation of probabilistic models: DoodleBUGS, PyMC, Kruschke-style Diagram
 05:08 Interactive probabilistic models explorer (IPME)
 05:26 IPME's purpose
 05:56 Future: interactive probabilistic programming
@@ -26,7 +26,7 @@ https://discourse.pymc.io/t/automatic-transformation-of-bayesian-probabilistic-m
 08:03 A scenario in logistics: choosing the right truck driver using IPME
 14:26 Who would benefit from IPME?
 15:22 Standardizing the output of the probabilistic programming language (PPL)
-17:26 Model definition in PyMC3
+17:26 Model definition in PyMC
 18:11 Inference & standardization of output
 18:51 Takeaway
 19:15 PPLs interface requirements for interactive visualizations
