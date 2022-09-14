@@ -13,7 +13,7 @@ Discourse Discussion
 https://discourse.pymc.io/t/studying-glycan-3d-structures-with-pymc3-and-arviz-by-agustina-arroyuelo/5981
 
 ## Timestamps
-- 0:00 Start of event
+00:00 Start of event
 - 1:40 Outline/Flow of the presentation
 - 2:20 Glycans
 - 4:30 Torsion Angles
