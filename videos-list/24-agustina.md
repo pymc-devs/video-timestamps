@@ -14,14 +14,14 @@ https://discourse.pymc.io/t/studying-glycan-3d-structures-with-pymc3-and-arviz-b
 
 ## Timestamps
 00:00 Start of event
-- 1:40 Outline/Flow of the presentation
-- 2:20 Glycans
-- 4:30 Torsion Angles
-- 5:29 Circular variables
-- 7:02 Von Mises distribution
-- 8:20 Energy and Boltzmann distribution
-- 11:01 Bayesian model for exploring glycan
-- 18:10 Contact Us
+01:40 Outline/Flow of the presentation
+02:20 Glycans
+04:30 Torsion Angles
+05:29 Circular variables
+07:02 Von Mises distribution
+08:20 Energy and Boltzmann distribution
+11:01 Bayesian model for exploring glycan
+18:10 Contact Us
 
 
 Speaker bio:
