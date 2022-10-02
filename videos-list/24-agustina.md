@@ -13,12 +13,16 @@ Discourse Discussion
 https://discourse.pymc.io/t/studying-glycan-3d-structures-with-pymc3-and-arviz-by-agustina-arroyuelo/5981
 
 ## Timestamps
-- 0:00 Start of event
-- x:xx 
-- x:xx
+00:00 Start of event
+01:40 Outline/Flow of the presentation
+02:20 Glycans
+04:30 Torsion Angles
+05:29 Circular variables
+07:02 Von Mises distribution
+08:20 Energy and Boltzmann distribution
+11:01 Bayesian model for exploring glycan
+18:10 Contact Us
 
-## Note: help us add timestamps here
-https://github.com/pymc-devs/video-timestamps
 
 Speaker bio:
 Agustina is a PhD candidate in Biology. In her research, she applies Bayesian statistics to biomolecular structure determination and validation, i.e. finding the 3-dimensional shape of biomolecules and evaluating if that shape is a good model. She enjoys contributing to open source software. She has participated in the Google Summer of Code program with PyMC and ArviZ and she was recently incorporated to ArviZ core developers team.
