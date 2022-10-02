@@ -34,7 +34,7 @@ https://discourse.pymc.io/t/a-tour-of-model-checking-techniques-by-rob-zinkov/60
 27:08 Akaike information criterion (AIC)
 27:53 Bayesian information criterion (BIC)
 28:43 Deviance information criterion (DIC)
-30:25 Watanabe-Akaike or widely-available information criterion (WAIC)
+30:25 Watanabe-Akaike or Widely-Available information criterion (WAIC)
 32:19 Leave One Out Cross Validations (LOOCV)
 33:39 Posterior dispersion indices
 35:51 Two-sample tests
