@@ -13,12 +13,12 @@ Discourse Discussion
 https://discourse.pymc.io/t/a-tour-of-model-checking-techniques-by-rob-zinkov/6056
 
 ## Timestamps
-0:00 Introduction
-2:12 Model evaluation vs. model selection
-5:31 Example: Predicting radon levels
-7:13 Reading and cleaning the "Radon Contamination" dataset
-7:55 Comparing complete pooling, no pooling, and partial pooling radon models
-9:59 Predictive accuracy
+00:00 Introduction
+02:12 Model evaluation vs. model selection
+05:31 Example: Predicting radon levels
+07:13 Reading and cleaning the "Radon Contamination" dataset
+07:55 Comparing complete pooling, no pooling, and partial pooling radon models
+09:59 Predictive accuracy
 11:05 Splitting in-sample and out-of-sample data and fitting against in-sample data for all 3 models
 12:26 Calculating root mean square error (RMSE) and comparing scores
 15:21 Cross validation
