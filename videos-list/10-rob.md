@@ -7,7 +7,7 @@ Title: A Tour of Model Checking Techniques
 Video: https://www.youtube.com/watch?v=vfqPGGCpY6I
 
 Event description:
-Have you ever written a model in PyMC and aren’t sure if it’s any good? In this talk I will show you the many ways you can evaluate how will your model fits your data using PyMC. Not all these techniques may be applicable for your particular problem but you will definitely walk away with a few new tricks for being confident in the models you fit.
+Have you ever written a model in PyMC and aren’t sure if it’s any good? In this talk I will show you the many ways you can evaluate how well your model fits your data using PyMC. Not all these techniques may be applicable for your particular problem, but you will definitely walk away with a few new tricks for being confident in the models you fit.
 
 Discourse Discussion
 https://discourse.pymc.io/t/a-tour-of-model-checking-techniques-by-rob-zinkov/6056
