@@ -13,24 +13,24 @@ Discourse Discussion
 https://discourse.pymc.io/t/sequential-monte-carlo-introduction-and-diagnostics-by-pedro-german-ramirez-osvaldo-martin/6019
 
 ## Timestamps
-- 00:00 Sequential Monte Carlo: Introduction and diagnostics
-- 00:40 Outline
-- 00:53 Who we are?
-- 01:35 What is SMC?
-- 02:51 Tempering factor
-- 04:10 SMC schematics
-- 05:27 Movable parts of SMC
-- 07:25 Advantages of SMC
-- 08:55 Problems with SMC
-- 09:34 SMC diagnostics
-- 10:16 Error score
-- 11:33 Metropolis-Hastings vs Independent Metropolis-Hastings
-- 12:20 R-hat
-- 13:35 Effective sample size
-- 14:34 Hierarchical model
-- 15:28 Last-stage original indexes distribution
-- 16:39 Conclusions
-- 17:27 Future work
+00:00 Sequential Monte Carlo: Introduction and diagnostics
+00:40 Outline
+00:53 Who we are?
+01:35 What is SMC?
+02:51 Tempering factor
+04:10 SMC schematics
+05:27 Movable parts of SMC
+07:25 Advantages of SMC
+08:55 Problems with SMC
+09:34 SMC diagnostics
+10:16 Error score
+11:33 Metropolis-Hastings vs Independent Metropolis-Hastings
+12:20 R-hat
+13:35 Effective sample size
+14:34 Hierarchical model
+15:28 Last-stage original indexes distribution
+16:39 Conclusions
+17:27 Future work
 
 
 Speaker info: 
