@@ -32,8 +32,6 @@ https://discourse.pymc.io/t/sequential-monte-carlo-introduction-and-diagnostics-
 - 16:39 Conclusions
 - 17:27 Future work
 
-## Note: help us add timestamps here
-https://github.com/pymc-devs/video-timestamps
 
 Speaker info: 
 Osvaldo is a researcher at the National Scientific and Technical Research Council in Argentina and is notably the author of the book Bayesian Analysis with Python, whose second edition was published in December 2018. He also teaches bioinformatics, data science and Bayesian data analysis, and is a core developer of PyMC and ArviZ, and recently started contributing to Bambi. Originally a biologist and physicist, Osvaldo trained himself to python and Bayesian methods – and what he’s doing with it is pretty amazing!
