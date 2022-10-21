@@ -13,12 +13,25 @@ Discourse Discussion
 https://discourse.pymc.io/t/sequential-monte-carlo-introduction-and-diagnostics-by-pedro-german-ramirez-osvaldo-martin/6019
 
 ## Timestamps
-- 0:00 Start of event
-- x:xx 
-- x:xx
-- 
-## Note: help us add timestamps here
-https://github.com/pymc-devs/video-timestamps
+00:00 Sequential Monte Carlo: Introduction and diagnostics
+00:40 Outline
+00:53 Who we are?
+01:35 What is SMC?
+02:51 Tempering factor
+04:10 SMC schematics
+05:27 Movable parts of SMC
+07:25 Advantages of SMC
+08:55 Problems with SMC
+09:34 SMC diagnostics
+10:16 Error score
+11:33 Metropolis-Hastings vs Independent Metropolis-Hastings
+12:20 R-hat
+13:35 Effective sample size
+14:34 Hierarchical model
+15:28 Last-stage original indexes distribution
+16:39 Conclusions
+17:27 Future work
+
 
 Speaker info: 
 Osvaldo is a researcher at the National Scientific and Technical Research Council in Argentina and is notably the author of the book Bayesian Analysis with Python, whose second edition was published in December 2018. He also teaches bioinformatics, data science and Bayesian data analysis, and is a core developer of PyMC and ArviZ, and recently started contributing to Bambi. Originally a biologist and physicist, Osvaldo trained himself to python and Bayesian methods – and what he’s doing with it is pretty amazing!
