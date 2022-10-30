@@ -24,8 +24,6 @@ https://discourse.pymc.io/t/calibr8-going-beyond-linear-ranges-with-non-linear-c
 15:17 Code
 18:39 Summary
 
-## Note: help us add timestamps here
-https://github.com/pymc-devs/video-timestamps
 
 Speaker info: 
 A biotechnologist by training, Laura transitioned to Data Science in the past years and is now a Bayesian enthusiast.
