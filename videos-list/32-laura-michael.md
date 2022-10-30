@@ -13,12 +13,17 @@ Discourse Discussion
 https://discourse.pymc.io/t/calibr8-going-beyond-linear-ranges-with-non-linear-calibration-curves-and-multilevel-modeling-by-michael-osthege-laura-helleckes/6025
 
 ## Timestamps
-- 0:00 Start of event
-- x:xx 
-- x:xx
-- 
-## Note: help us add timestamps here
-https://github.com/pymc-devs/video-timestamps
+00:00 Introduction
+00:41 Biotechnology
+01:43 Example
+03:26 Process Model
+06:03 Multilevel Modeling
+07:26 Error Models
+09:10 Error Model Implementation
+12:45 Application Example
+15:17 Code
+18:39 Summary
+
 
 Speaker info: 
 A biotechnologist by training, Laura transitioned to Data Science in the past years and is now a Bayesian enthusiast.
