@@ -13,10 +13,17 @@ Discourse Discussion
 https://discourse.pymc.io/t/calibr8-going-beyond-linear-ranges-with-non-linear-calibration-curves-and-multilevel-modeling-by-michael-osthege-laura-helleckes/6025
 
 ## Timestamps
-- 0:00 Start of event
-- x:xx 
-- x:xx
-- 
+- 0:00 Introduction
+- 0:41 Biotechnology
+- 1:43 Example
+- 3:26 Process Model
+- 6:03 Multilevel Modeling
+- 7:26 Error Models
+- 9:10 Error Model Implementation
+- 12:45 Application Example
+- 15:17 Code
+- 18:39 Summary
+
 ## Note: help us add timestamps here
 https://github.com/pymc-devs/video-timestamps
 
