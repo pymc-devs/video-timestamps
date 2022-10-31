@@ -27,7 +27,6 @@ https://discourse.pymc.io/t/the-mlda-multilevel-sampler-in-pymc3-by-tim-dodwell-
 27:53 Example
 38:43 What we would like from you - Contacts
 
-https://github.com/pymc-devs/video-timestamps
 
 Speaker bio:
 Prof. Tim Dodwell has a personal chair in Computational Mechanics at the University of Exeter, is the Romberg Visiting at Heidelberg in Scientific Computing and holds a 5 year Turing AI Fellowship at the Alan Turing Institute where he is also an academic lead.
