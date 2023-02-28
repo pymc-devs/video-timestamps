@@ -1,7 +1,9 @@
 Speaker: Danh Phan
 
 Title: An Introduction to Multi-Output Gaussian Processes using PyMC
-Video: https://youtu.be/8YN7dLJlHIE
+
+- Video: https://youtu.be/8YN7dLJlHIE
+- Meetup: https://www.meetup.com/pymc-online-meetup/events/291618626/
 
 ## Event description:
 Multi-output Gaussian processes have recently gained strong attention from researchers and have become an active research topic in machine learning’s multi-task learning. The advantage of multi-output Gaussian processes is their capacity to simultaneously learn and infer many outputs which have a similar source of uncertainty from inputs.
@@ -14,9 +16,12 @@ The talk aims to get users quickly up and performing GPs, especially multi-outpu
 https://discourse.pymc.io/t/pymcon-web-series-an-introduction-to-multi-output-gaussian-processes-using-pymc-feb-21st-10-pm-utc-2023/11395
 
 ## Timestamps
+```
 0:00 
 x:xx 
-x:xx Help us add timestamps here: https://github.com/pymc-devs/video-timestamps
+x:xx 
+```
+Help us add timestamps here: https://github.com/pymc-devs/video-timestamps
 
 ## Speaker bio:
 xxx
