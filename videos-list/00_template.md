@@ -3,6 +3,7 @@ Speaker: xxx
 
 Title:  xxx
 Video: xxx
+Meetup: xxx
 
 ## Event description:
 xxx
@@ -25,7 +26,7 @@ xxx
 - Twitter:  
 - LinkedIn:  
 
-Part of PyMCon2020. 
+Part of PyMCon. 
 More details at http://www.pymcon.com  
 
 ## Hashtags
