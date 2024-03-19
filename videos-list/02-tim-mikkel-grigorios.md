@@ -13,12 +13,20 @@ Discourse Discussion
 https://discourse.pymc.io/t/the-mlda-multilevel-sampler-in-pymc3-by-tim-dodwell-mikkel-lykkegaard-and-grigorios-mingas/5982
 
 ## Timestamps
-- 0:00 Start of event
-- x:xx 
-- x:xx
+00:00 Introduction
+00:36 A three way plan of attack!
+03:21 Bayesian Uncertainty Quantification - Vanilla MCMC Starts with Bayes' Theorem
+06:13 Delayed Acceptance - Christen & Fox, 2005
+07:39 Multilevel Delayed Acceptance - Adpt 1 - Finite Subchains
+08:33 Multilevel Delayed Acceptance - Adpt 2 - Apply Recursively
+09:50 MLDA in PyMC3
+22:21 Correcting Coarse Models
+23:40 Coarse Model Bias
+25:01 Modelling the Bias
+26:41 Adaptive Error Model
+27:53 Example
+38:43 What we would like from you - Contacts
 
-## Note: help us add timestamps here
-https://github.com/pymc-devs/video-timestamps
 
 Speaker bio:
 Prof. Tim Dodwell has a personal chair in Computational Mechanics at the University of Exeter, is the Romberg Visiting at Heidelberg in Scientific Computing and holds a 5 year Turing AI Fellowship at the Alan Turing Institute where he is also an academic lead.
