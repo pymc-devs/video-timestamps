@@ -23,42 +23,42 @@ https://discourse.pymc.io/t/pymcon-web-series-the-power-of-bayes-in-industry-you
 
 ## Timestamps
 ```
-00:00 - Introduction to PyMCon by Ravin Kumar.
-00:54 - Live recording start and introduction of speaker Dante Gates.
-01:42 - Title Slide: The Power of Bayes in Industry.
-02:53 - Presentation Outline.
-03:48 - What is a Data Generating Process (DGP)?
-04:39 - Modeling from first principles.
-05:09 - Motivating Example: Stan Case Study (Golf Putting).
-05:47 - Examining the golf data.
-06:29 - The True DGP.
-06:56 - The DGP as Modeled.
-07:38 - Results: First principles fit vs. Logistic regression.
-08:31 - Modeling specific outcomes vs. the process itself.
-10:11 - Generalization at Perpay: Credit building through e-commerce.
-11:10 - Sketching the process: Modeling default rates over time.
-12:54 - Modeling liquidation rates.
-14:39 - Deriving "In-flight" loans.
-16:31 - Modeling Loan Maturation: Writing the pseudo-code.
-17:18 - Deriving long-term rates from constraints.
-18:28 - Defining the Likelihood.
-19:02 - Advantages over "Vanilla" Machine Learning.
-19:20 - Critiques of the initial simple model.
-20:00 - "Awesome 2.0": Incorporating Recovery into the model.
-21:25 - Defining default with time lags.
-24:26 - Updating the model code with recovery parameters.
-25:20 - Discussing results.
-26:51 - Disclaimer regarding the discussion section.
-27:04 - Why Industry?
-27:41 - Why Bayesian?
-28:50 - Why PyMC? 
-31:10 - Summary: Why should I care?
-33:19 - Perpay hiring info.
-33:33 - Q&A Start: What tool was used for the slides?
-41:08 - Q&A: Episodic vs. indefinitely long dynamic processes.
-42:20 - Q&A: Recommendations for starting a first-principles approach.
-43:07 - Q&A: Navigating divergences in PyMC models.
-44:26 - Closing remarks and upcoming events. 
+00:00 Introduction to PyMCon by Ravin Kumar
+00:54 Live recording start and introduction of speaker Dante Gates
+01:42 Title Slide: The Power of Bayes in Industry
+02:53 Presentation Outline
+03:48 What is a Data Generating Process (DGP)?
+04:39 Modeling from first principles
+05:09 Motivating Example: Stan Case Study (Golf Putting)
+05:47 Examining the golf data
+06:29 The True DGP
+06:56 The DGP as Modeled
+07:38 Results: First principles fit vs. Logistic regression
+08:31 Modeling specific outcomes vs. the process itself
+10:11 Generalization at Perpay: Credit building through e-commerce
+11:10 Sketching the process: Modeling default rates over time
+12:54 Modeling liquidation rates
+14:39 Deriving "In-flight" loans
+16:31 Modeling Loan Maturation: Writing the pseudo-code
+17:18 Deriving long-term rates from constraints
+18:28 Defining the Likelihood
+19:02 Advantages over "Vanilla" Machine Learning
+19:20 Critiques of the initial simple model
+20:00 "Awesome 2.0": Incorporating Recovery into the model
+21:25 Defining default with time lags
+24:26 Updating the model code with recovery parameters
+25:20 Discussing results
+26:51 Disclaimer regarding the discussion section
+27:04 Why Industry?
+27:41 Why Bayesian?
+28:50 Why PyMC? 
+31:10 Summary: Why should I care?
+33:19 Perpay hiring info
+33:33 Q&A Start: What tool was used for the slides?
+41:08 Q&A: Episodic vs. indefinitely long dynamic processes
+42:20 Q&A: Recommendations for starting a first-principles approach
+43:07 Q&A: Navigating divergences in PyMC models
+44:26 Closing remarks and upcoming events 
 ```
 Help us add timestamps here: https://github.com/pymc-devs/video-timestamps
 
